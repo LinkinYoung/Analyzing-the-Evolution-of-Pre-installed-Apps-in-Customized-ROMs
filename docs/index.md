@@ -51,7 +51,7 @@ VS Live Share 可以使用微软账号或者 GitHub 账号登陆。登陆的作�
 
 1、访问 [Latex 发行版下载页面](https://www.latex-project.org/get/)，选择对应的系统环境。
 
-![](img/7.png)
+![](img/7.jpg)
 
 对于 Windows，安装 TexLive。对于 macOS，安装 [MacTex](http://www.tug.org/mactex/index.html) 的 [BasicTex](http://www.tug.org/mactex/morepackages.html) 包。安装完成后应当可以在命令行中运行
 ```
